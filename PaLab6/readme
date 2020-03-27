@@ -1,0 +1,7 @@
+Rulam Main-ul...
+- va deschide drawing panel-ul care are main frame, control panel si configuration panel
+- in control panel avem butoanele de load (incarca imaginea), save (salveaza imaginea), reset (reseteaza
+canvasul) si exit (inchide aplicatia)
+- in configuration panel avem configurarea ferestrei de lucru
+- in main frame avem handling pt. mouse, functiile de paint, clear, drawShape etc.
+- drawing panel face si handling pe butoane, in caz de eroare, avem exceptiile
