@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"DbPack","l":"AlbumController"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"DbPack","l":"ArtistController"},{"p":"DbPack","l":"Database"},{"p":"<Unnamed>","l":"Main"}]
